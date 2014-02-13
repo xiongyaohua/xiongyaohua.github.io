@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = '熊耀华'
 SITENAME = '熊窝'
-SITEURL = 'http://xiongyaohua.github.io/'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
